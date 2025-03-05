@@ -1,8 +1,8 @@
 //BRAND
 export const name = 'AiCourse';
 export const company = 'Coursegen';
-export const websiteURL = 'https://ai-course-backend-new.vercel.app/';
-export const serverURL = 'https://ai-course-backend.vercel.app';
+export const websiteURL = 'https://smartcourseai.co/';
+export const serverURL = 'https://api.smartcourseai.co';
 export const logo = 'https://firebasestorage.googleapis.com/v0/b/india-bd34b.appspot.com/o/artificial-intelligence.png?alt=media&token=2dc0da1c-12d0-4dd2-b908-cb8e57fcf3f0';
 export const razorpayEnabled = true;
 export const paypalEnabled = true;
